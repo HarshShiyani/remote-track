@@ -5,3 +5,7 @@ Blue
 White
 Black
 Cyan
+=======
+Orange
+Gray
+Purple
